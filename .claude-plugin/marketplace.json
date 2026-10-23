@@ -1,0 +1,12 @@
+{
+  "name": "taxtile-marketplace",
+  "description": "Taxtile Irish tax plugin",
+  "owner": { "name": "Aran Smith" },
+  "plugins": [
+    {
+      "name": "taxtile",
+      "source": "./plugin",
+      "description": "Irish income tax, USC, PRSI, CGT and take-home pay calculator tools plus a guidance skill"
+    }
+  ]
+}
