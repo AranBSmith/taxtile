@@ -1,0 +1,29 @@
+name: Wrong or surprising result
+description: A figure doesn't match Revenue, or a situation isn't handled
+labels: [bug]
+body:
+  - type: textarea
+    id: inputs
+    attributes:
+      label: Your situation and inputs
+      description: Tax year, marital status, income, anything else that matters. Leave out anything you don't want public.
+    validations:
+      required: true
+  - type: textarea
+    id: got
+    attributes:
+      label: What the plugin said
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected, and why
+      description: A link to the Revenue page that says so helps most.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Plugin version
+      description: Shown by `claude plugin list`

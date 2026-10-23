@@ -7,5 +7,5 @@
   "homepage": "https://github.com/AranBSmith/taxtile",
   "repository": "https://github.com/AranBSmith/taxtile",
   "license": "MIT",
-  "keywords": ["tax", "ireland", "paye", "usc", "prsi", "mcp"]
+  "keywords": ["tax", "ireland", "irish-tax", "revenue", "paye", "usc", "prsi", "cgt", "take-home-pay", "mcp"]
 }
