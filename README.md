@@ -11,11 +11,9 @@ Needs [Claude Code](https://claude.com/claude-code) and Node 20 or later. It run
 
 ## Example
 
-> **You:** What is my take-home pay on €65,000 in 2026? Single, no kids.
->
-> **Claude** calls the Taxtile tool and answers from its result:
->
-> Irish tax 2026: net income €47,562.80 (€3,963.57 a month, €914.67 a week). Total tax €17,437.20 (effective rate 26.83%): income tax after credits €13,200.00, USC €1,482.82, PRSI €2,754.38. Tax credits €4,000.00.
+![Claude Code answering "what would be my take home pay if I earned 62500 with a 20% contribution to my pension?" with the Taxtile tool: take-home 38,743.74 a year, a breakdown table, and the assumptions it made](docs/screenshot.png)
+
+Claude calls the Taxtile tool, answers from its result, and says what it assumed and what the figures leave out.
 
 More things to ask:
 
