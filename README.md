@@ -11,7 +11,7 @@ See [plugin/README.md](plugin/README.md) for usage and details. Not financial ad
 
 ## Licence
 
-MIT, see [LICENSE](LICENSE).
+MIT, see [LICENSE](LICENSE). Bundled dependencies and their licences are listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 ## Releases
 
