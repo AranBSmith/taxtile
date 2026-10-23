@@ -1,11 +1,24 @@
 {
   "name": "taxtile",
   "displayName": "Taxtile Irish Tax",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Irish income tax, USC, PRSI, CGT and take-home pay calculations, with a skill that tells Claude when and how to use them.",
-  "author": { "name": "Aran Smith" },
+  "author": {
+    "name": "Aran Smith"
+  },
   "homepage": "https://github.com/AranBSmith/taxtile",
   "repository": "https://github.com/AranBSmith/taxtile",
   "license": "MIT",
-  "keywords": ["tax", "ireland", "irish-tax", "revenue", "paye", "usc", "prsi", "cgt", "take-home-pay", "mcp"]
+  "keywords": [
+    "tax",
+    "ireland",
+    "irish-tax",
+    "revenue",
+    "paye",
+    "usc",
+    "prsi",
+    "cgt",
+    "take-home-pay",
+    "mcp"
+  ]
 }
