@@ -8,3 +8,7 @@ Claude Code plugin for Irish tax: income tax, USC, PRSI, CGT, credits and take-h
 ```
 
 See [plugin/README.md](plugin/README.md) for usage and details. Not financial advice.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE).

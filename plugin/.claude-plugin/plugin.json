@@ -6,6 +6,6 @@
   "author": { "name": "Aran Smith" },
   "homepage": "https://github.com/AranBSmith/taxtile",
   "repository": "https://github.com/AranBSmith/taxtile",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "keywords": ["tax", "ireland", "paye", "usc", "prsi", "mcp"]
 }
